@@ -1,2 +1,0 @@
-Imie: null
-Nazwisko null
